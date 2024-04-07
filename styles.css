@@ -1,0 +1,34 @@
+h1{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    border: 10px #000000 solid;
+    background: #0009;
+    border-radius: 40px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    background: #0009;
+    border-radius: 10px;
+}
+
+body{
+    background: #808080;
+}
+
+
+
+.posters img{
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+
